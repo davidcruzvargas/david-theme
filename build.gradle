@@ -21,10 +21,10 @@ intellij {
 }
 patchPluginXml {
     changeNotes = """
-        <dl>
-          <dt>1.0.0</dt>
-          <dd>- Initial version</dd>
-        </dl>
+    <dl>
+      <dt>1.0.0</dt>
+      <dd>- Initial version</dd>
+    </dl>
       """
 }
 test {
