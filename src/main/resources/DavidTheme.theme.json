@@ -1,0 +1,34 @@
+{
+  "name": "David Theme",
+  "author": "David Cruz",
+  "dark": true,
+  "editorScheme": "/DavidTheme.xml",
+  "colors": {
+    "black": "#000000",
+    "yellow": "#FFB900",
+    "greyDot60": "#666666",
+    "greyDot95": "#242220"
+
+  },
+  "ui": {
+    "*": {
+      "background": "black",
+      "foreground": "#FFFFFF",
+      "inactiveBackground": "greyDot95",
+      "borderColor": "yellow",
+      "separatorColor": "yellow",
+      "windowBorder": "yellow",
+      "selectionBackground": "yellow",
+      "selectionForeground": "black",
+      "selectionInactiveBackground": "greyDot60"
+    },
+    "Window": {
+      "border": "yellow"
+    },
+    "Borders": {
+      "color": "yellow",
+      "ContrastBorderColor": "yellow"
+    },
+    "SidePanel.background": "greyDot95"
+  }
+}
