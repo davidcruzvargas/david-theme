@@ -7,13 +7,14 @@
     "black": "#000000",
     "yellow": "#FFB900",
     "greyDot60": "#666666",
-    "greyDot95": "#242220"
+    "greyDot95": "#242220",
+    "white": "#FFFFFF"
 
   },
   "ui": {
     "*": {
       "background": "black",
-      "foreground": "#FFFFFF",
+      "foreground": "white",
       "inactiveBackground": "greyDot95",
       "borderColor": "yellow",
       "separatorColor": "yellow",
@@ -23,12 +24,28 @@
       "selectionInactiveBackground": "greyDot60"
     },
     "Window": {
-      "border": "yellow"
+      "border": "1,1,1,1,FFB900"
     },
     "Borders": {
       "color": "yellow",
       "ContrastBorderColor": "yellow"
     },
-    "SidePanel.background": "greyDot95"
+    "SidePanel.background": "greyDot95",
+    "Button.default": {
+      "foreground": "black",
+      "startBackground": "yellow",
+      "endBackground": "yellow",
+      "startBorderColor": "greyDot60",
+      "endBorderColor": "greyDot60",
+      "focusColor": "greyDot60"
+    },
+    "Plugins.Button": {
+      "installBackground": "yellow",
+      "installForeground": "black",
+      "updateBackground": "yellow",
+      "updateForeground": "black",
+      "installFillBackground": "yellow",
+      "installFillForeground": "black"
+    }
   }
 }
