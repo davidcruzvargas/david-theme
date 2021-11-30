@@ -7,3 +7,14 @@ with some changes to adapt to new colors I'm selecting for this theme.
 
 # Preview
 ![Screenshot](https://raw.githubusercontent.com/davidcruzvargas/david-theme/main/src/main/resources/screenshots/screen.png)
+
+# Build Pluggin
+
+Use the gradle wrapper:
+
+```
+.\gradlew buildPluggin
+```
+
+Documentation about how to [publish Plugin](https://plugins.jetbrains.com/docs/intellij/deployment.html)
+
