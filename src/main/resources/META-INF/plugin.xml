@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.davidcruzvargas.intellij.davidtheme</id>
     <name>David Theme Yellow</name>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <vendor email="davidcruzvargas@gmail.com" url="https://github.com/davidcruzvargas/david-theme">David Cruz Vargas</vendor>
 
     <description><![CDATA[
@@ -24,7 +24,7 @@
     </change-notes>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
-    <idea-version since-build="173.0"/>
+    <idea-version since-build="221"/>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
          on how to target different products -->

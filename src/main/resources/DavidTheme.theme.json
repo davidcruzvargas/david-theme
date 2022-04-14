@@ -1,5 +1,5 @@
 {
-  "name": "David Theme",
+  "name": "DavidTheme",
   "author": "David Cruz",
   "dark": true,
   "editorScheme": "/DavidTheme.xml",
@@ -9,7 +9,6 @@
     "greyDot60": "#666666",
     "greyDot95": "#242220",
     "white": "#FFFFFF"
-
   },
   "ui": {
     "*": {
