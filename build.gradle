@@ -10,6 +10,7 @@ repositories {
     mavenCentral()
 }
 
+// This is the version of the platform to build the plugin
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
     version = '2022.1'
